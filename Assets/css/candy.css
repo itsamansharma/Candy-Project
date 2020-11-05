@@ -9,27 +9,20 @@ body .navbar{
 }
 
                 /* navbar */
-.navbar-brand{
-    border:3px solid rgb(0, 0, 0);
+
+#candy:hover{
+    color: chartreuse;
 }
-.navbar-brand:hover{
-    background-color: black;
-    border: 3px solid yellow;
-}
-#main-navbar .navbar-brand:hover{
-    color: aqua;
-}
+
 #main-navbar .navbar-brand{
     color: rgb(231, 21, 21);
-    font-size: 1.5rem;
-    font-weight: 100;
+    font-size: 1.8rem;
+    font-weight: 200;
 }
-#main-navbar .navbar-brand:hover{
-    background-color: black;
-}
+
 #main-navbar .nav-link{
     color: white;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     font-weight: 100;
 }
 #main-navbar .nav-link:hover{
